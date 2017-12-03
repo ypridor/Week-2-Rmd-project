@@ -1,6 +1,6 @@
-Name,Address,URL,Image,lng,lat
-Sheva Spa,"Hilton Hotel, Hayarkon 205, Tel Aviv",http://www.sheva-spa.co.il/,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/10978654_350653338453880_5723336222599273564_n-300x300.png,34.77077,32.08932
-Spa Neve Tzedek,"Yehieli St 7, Tel Aviv",http://spanevetzedek.co.il/en/,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/10849879_941270402568250_1955926764614554949_n-300x197.jpg,34.7648,32.06074
-Tomoko Japanese Spa,"Wingate Street 142, Herzliya",http://www.tomoko.co.il/en.aspx,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/pic08.jpg.big_-300x200.jpg,34.80373,32.17041
-Shizen Spa,"Daniel Hotel, Herzliya",http://www.shizenhotel.com/shizen-herzliya-hotel-spa,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/shizen-spa-2-300x209.jpg,34.80055,32.17146
-Tipul 4-U,"Haetrog 3, Herzliya",https://www.facebook.com/claudiatipul4U/,C://Users//yoav.BUZZILLA//Documents//1Personal//Yoav//Data Science//Course 9//Leaflet//tipul_4_u.jpg,34.84955,32.17649
+Name,Address,URL,Image,lng,lat,Link
+Sheva Spa,"Hilton Hotel, Hayarkon 205, Tel Aviv",http://www.sheva-spa.co.il/,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/10978654_350653338453880_5723336222599273564_n-300x300.png,34.77077,32.08932,<a href='http://www.sheva-spa.co.il/'>Sheva Spa</a>
+Spa Neve Tzedek,"Yehieli St 7, Tel Aviv",http://spanevetzedek.co.il/en/,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/10849879_941270402568250_1955926764614554949_n-300x197.jpg,34.7648,32.06074,<a href='http://spanevetzedek.co.il/en/'>Spa Neve Tzedek</a>
+Tomoko Japanese Spa,"Wingate Street 142, Herzliya",http://www.tomoko.co.il/en.aspx,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/pic08.jpg.big_-300x200.jpg,34.80373,32.17041,<a href='http://www.tomoko.co.il/en.aspx'>Tomoko Japanese Spa</a>
+Shizen Spa,"Daniel Hotel, Herzliya",http://www.shizenhotel.com/shizen-herzliya-hotel-spa,https://3gwtod2hg0th1ikege3y0nok-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/shizen-spa-2-300x209.jpg,34.80055,32.17146,<a href='http://www.shizenhotel.com/shizen-herzliya-hotel-spa'>Shizen Spa</a>
+Tipul 4-U,"Haetrog 3, Herzliya",https://www.facebook.com/claudiatipul4U/,C://Users//yoav.BUZZILLA//Documents//1Personal//Yoav//Data Science//Course 9//Leaflet//tipul_4_u.jpg,34.84955,32.17649,<a href='https://www.facebook.com/claudiatipul4U/'>Tipul 4-U</a>

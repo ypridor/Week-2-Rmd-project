@@ -6,17 +6,19 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # December 1st, 2017
 
-```{r cache=FALSE}
+## Click a spa to go to the site
+
+```{r cache=FALSE, warning=FALSE, message=FALSE}
 library(leaflet)
 
 # Reading in the list of spas in Tel Aviv with streat addresses
 spas_ta <- read.csv("spa_ta.csv")
-
-myMap = myMap %>% addMarkers(lng = spas_ta$lng, lat = spas_ta$lat, popup = spas_ta$Name)
+myMap <- leaflet() %>% addTiles()
+myMap = myMap %>% addMarkers(lng = spas_ta$lng, lat = spas_ta$lat, popup = spas_ta$Link)
 myMap
 ```
